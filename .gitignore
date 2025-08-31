@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# DB files
+*.db
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# local env files
+.env
+
