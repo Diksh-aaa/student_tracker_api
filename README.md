@@ -17,6 +17,12 @@ FastAPI + SQLite (extendable to Postgres). Clean, modular, and ready for Swagger
 - Scores: upsert per subject, student average, subject top scorer, department average
 - SQLite by default; set `DATABASE_URL` for Postgres
 - Tables auto-create on startup; interactive docs at `/docs`
+- 
+- ![WhatsApp Image 2025-08-31 at 21 29 36](https://github.com/user-attachments/assets/fd824e90-3aef-4b2f-a8a3-2efbc365f387)
+
+![WhatsApp Image 2025-08-31 at 21 29 25](https://github.com/user-attachments/assets/690494a0-b29b-487f-9ba4-fb876da9808e)
+
+
 
 ## 🚀 TL;DR — Run It
 
