@@ -153,3 +153,4 @@ Tables are created automatically on startup.
 ---
 
 Built with ❤️ using FastAPI, SQLAlchemy and Pydantic.
+# student_tracker_api
